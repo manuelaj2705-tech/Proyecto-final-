@@ -49,7 +49,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 with st.sidebar:
-    st.markdown("## 🌡️ Monitor IOT")
+    st.markdown("## Ubicación")
     st.markdown("**Ciudad del Río, Medellín**  \nLat: 6.2208 | Lon: -75.5735")
     st.divider()
     fuente = st.radio("Fuente de datos", ["☁️ InfluxDB Cloud", "📊 Datos de ejemplo"])
