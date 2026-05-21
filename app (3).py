@@ -15,7 +15,7 @@ from scipy import stats
 from datetime import datetime, timedelta
 
 st.set_page_config(
-    page_title="IoT Dashboard – Ciudad del Río",
+    page_title="IOT Proyecto Final – Ciudad del Río",
     page_icon="🌡️",
     layout="wide",
     initial_sidebar_state="expanded",
