@@ -113,7 +113,7 @@ if fuente == "☁️ InfluxDB Cloud":
 else:
     df = generar_datos_ejemplo(rango_dias)
 
-st.markdown("# 🌡️ Dashboard IoT — Ciudad del Río, Medellín")
+st.markdown("# 🌡️ Proyecto Final — Ciudad del Río, Medellín")
 st.markdown("**Sensor:** ESP32 + DHT22 &nbsp;|&nbsp; **Base de datos:** InfluxDB &nbsp;|&nbsp; **Ubicación:** 6.2208°N, -75.5735°O")
 st.divider()
 
